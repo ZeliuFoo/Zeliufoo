@@ -2,7 +2,7 @@
 
 <h3> 👨🏻‍💻 &nbsp;About Me </h3>
 
-
+I was a 19-year-old student from China, is now in the self-study CS61A, after learning will be more CS courses, and share notes and programming experience, welcome any form of discussion and communication
 
 <h3> 🛠 &nbsp;Tech Stack</h3>
 
@@ -31,12 +31,5 @@
 </a>
 
 <br/>
-
-<h3> 🤝🏻 &nbsp;Connect with Me </h3>
-
-<p align="left">
-<a href="https://zeliufoo.github.io/"><img alt="Website" src="https://img.shields.io/badge/Website-www.adityavsingh.com-blue?style=flat-square&logo=google-chrome"></a>
-<a href="maoliu41@gmail.com"><img alt="Email" src="https://img.shields.io/badge/-maoliu41@gmail.com-D14836?style=flat&logo=Gmail&logoColor=white"/></a>
-</p>
 
 ⭐️ From [AVS1508](https://github.com/AVS1508)
