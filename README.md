@@ -2,7 +2,7 @@
 
 <h3> 👨🏻‍💻 &nbsp;About Me </h3>
 
-I was a 19-year-old student from China, is now in the self-study CS61A, after learning will be more CS courses, and share notes and programming experience, welcome any form of discussion and communication
+I was a 19-year-old student from China, is now in the self-study CS61A, after that will learning more CS courses, and share notes and programming experience, welcome any form of discussion and communication
 
 <h3> 🛠 &nbsp;Tech Stack</h3>
 
