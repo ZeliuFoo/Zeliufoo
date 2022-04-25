@@ -36,7 +36,7 @@
 
 <p align="left">
 <a href="https://zeliufoo.github.io/"><img alt="Website" src="https://img.shields.io/badge/Website-www.adityavsingh.com-blue?style=flat-square&logo=google-chrome"></a>
-<a href="maoliu41@gmail.com"><img alt="Email" src="https://img.shields.io/badge/https://img.shields.io/badge/Email-maoliu41%40gmail.com-red?style=flat-square&logo=gmail"></a>
+<a href="maoliu41@gmail.com"><img alt="Email" src="https://img.shields.io/badge/https://img.shields.io/badge/Email-maoliu41%40gmail.com-red"></a>
 </p>
 
 ⭐️ From [AVS1508](https://github.com/AVS1508)
