@@ -31,5 +31,3 @@ I was a 19-year-old student from China, is now in the self-study CS61A, welcome 
 </a>
 
 <br/>
-
-⭐️ From [AVS1508](https://github.com/AVS1508)
